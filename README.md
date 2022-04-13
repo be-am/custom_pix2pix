@@ -1,1 +1,2 @@
-sdsd
+input binary
+output color
